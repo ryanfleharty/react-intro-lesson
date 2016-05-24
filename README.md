@@ -1,4 +1,3 @@
-
 ---
 title: Introduction to React.js
 type: lesson
