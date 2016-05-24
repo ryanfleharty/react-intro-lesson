@@ -6,6 +6,7 @@ creator:
     name: James Traver
     city: CHI
 competencies: Programming, Front-end Frameworks, React, JSX
+screencast: https://vimeo.com/album/3962306/video/163455429
 ---
 
 # Introduction to React.js
